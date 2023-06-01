@@ -1,0 +1,15 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.boleto{
+  width: 800px;
+  height: 300px;
+  border: 20px dotted orangered;
+  background-color: seagreen;
+  
+  margin-top: 30px;
+}
